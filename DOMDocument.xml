@@ -1,0 +1,339 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="74.2651684569298" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="videoPlayer" itemID="4e9ee829-00000222" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="times" itemID="4e9e4cce-00000324" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1318997198" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="2043452701_07969b6850_o.jpg" itemID="4e9e3e54-000001ee" sourceExternalFilepath="../cd/LIBRARY/2043452701_07969b6850_o.jpg" sourceLastImported="1318991283" externalFileSize="133051" originalCompressionType="lossless" quality="50" href="2043452701_07969b6850_o.jpg" bitmapDataHRef="M 1 1318991420.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="2109896891_163e994829_o.jpg" itemID="4e9e3e54-000001ef" sourceExternalFilepath="../cd/LIBRARY/2109896891_163e994829_o.jpg" sourceLastImported="1318991319" externalFileSize="1752206" originalCompressionType="lossless" quality="50" href="2109896891_163e994829_o.jpg" bitmapDataHRef="M 2 1318991421.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="2652536990_924af0d042_o.jpg" itemID="4e9e3e54-000001f0" sourceExternalFilepath="../cd/LIBRARY/2652536990_924af0d042_o.jpg" sourceLastImported="1318991362" externalFileSize="5121058" originalCompressionType="lossless" quality="50" href="2652536990_924af0d042_o.jpg" bitmapDataHRef="M 3 1318991422.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="4635123089_ed5f57b343_o.jpg" itemID="4e9e363e-000001e1" sourceExternalFilepath="../cd/LIBRARY/images/4635123089_ed5f57b343_o.jpg" sourceLastImported="1318991246" quality="50" href="4635123089_ed5f57b343_o.jpg" bitmapDataHRef="M 4 1318991422.dat" frameRight="24000" frameBottom="16000" isJPEG="true"/>
+          <DOMBitmapItem name="bullet.png" itemID="4e9e4bf9-00000322" sourceExternalFilepath="../cd/LIBRARY/bullet.png" sourceLastImported="1318993099" externalFileCRC32="275458411" externalFileSize="170289" originalCompressionType="lossless" quality="50" href="bullet.png" bitmapDataHRef="M 7 1318996790.dat" frameRight="10220" frameBottom="10220"/>
+          <DOMVideoItem name="videoPlayer/Display_vid" itemID="4890454e-00000016" sourceLastImported="1217176568" videoDataHRef="M 8 1319036984.dat" channels="0" isSpecial="true"/>
+          <DOMBitmapItem name="logo.png" itemID="4e9e3e54-000001f1" sourceExternalFilepath="../cd/LIBRARY/logo.png" sourceLastImported="1318992738" externalFileSize="6985" originalCompressionType="lossless" quality="50" href="logo.png" bitmapDataHRef="M 6 1318992745.dat" frameRight="3100" frameBottom="960"/>
+          <DOMBitmapItem name="Untitled-2.png" itemID="4e9e3e54-000001f2" sourceExternalFilepath="../cd/LIBRARY/Untitled-2.png" sourceLastImported="1257889551" externalFileSize="6843" originalCompressionType="lossless" quality="50" href="Untitled-2.png" bitmapDataHRef="M 5 1318992382.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+     </media>
+     <symbols>
+          <Include href="Back.xml" itemIcon="0" itemID="4e9e6c81-00000329" lastModified="1319006925"/>
+          <Include href="backbutton.xml" itemIcon="0" itemID="4e9e7336-000001ed" lastModified="1319062661"/>
+          <Include href="bullet.xml" itemIcon="1" loadImmediate="false" itemID="4e9e4bb5-0000031e" lastModified="1318996917"/>
+          <Include href="Button.xml" itemID="4e9e498b-000001f4" lastModified="1318996363"/>
+          <Include href="Link.xml" itemID="4e9e4afe-00000318" lastModified="1319003482"/>
+          <Include href="VideoControls_mc.xml" loadImmediate="false" itemID="488ca4aa-0000000e" lastModified="1319037468"/>
+          <Include href="videoPlayer/FillBar_mc.xml" loadImmediate="false" itemID="488d898d-00000014" lastModified="1217423776"/>
+          <Include href="videoPlayer/FillGrey_mc.xml" loadImmediate="false" itemID="488d8bc2-00000018" lastModified="1217235906"/>
+          <Include href="videoPlayer/FillRed_mc.xml" loadImmediate="false" itemID="488d8b60-00000016" lastModified="1217235808"/>
+          <Include href="videoPlayer/Mute_btn.xml" itemIcon="0" loadImmediate="false" itemID="488cab27-00000025" lastModified="1217186342"/>
+          <Include href="videoPlayer/Pause_btn.xml" itemIcon="0" loadImmediate="false" itemID="488ca782-00000021" lastModified="1217177585"/>
+          <Include href="videoPlayer/Play_btn.xml" itemIcon="0" loadImmediate="false" itemID="488ca550-00000012" lastModified="1217177493"/>
+          <Include href="videoPlayer/ProgressScrubber_mc.xml" loadImmediate="false" itemID="489073dc-0000005d" lastModified="1217426396"/>
+          <Include href="videoPlayer/Scrubber_btn.xml" itemIcon="0" loadImmediate="false" itemID="488cc7fd-00000013" lastModified="1217426255"/>
+          <Include href="videoPlayer/Stop_btn.xml" itemIcon="0" loadImmediate="false" itemID="488ca85c-00000023" lastModified="1217177768"/>
+          <Include href="videoPlayer/Unmute_btn.xml" itemIcon="0" loadImmediate="false" itemID="488cadd1-00000027" lastModified="1217186359"/>
+          <Include href="videoPlayer/VolumeScrubber_mc.xml" loadImmediate="false" itemID="4890657f-0000005b" lastModified="1217436984"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="backbutton" name="bb" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="5" ty="6.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[include "main.as";]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="787.95" height="77.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="17.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Electrify!  Charge up Energy Education</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="55.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Interactive Simulations</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="56.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Interactive Lesson Guides</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="56.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Print Resources</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="56.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Video Clips</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="56.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Online Links</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="4635123089_ed5f57b343_o.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.699996948242188" d="0.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="600" y="400"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="logo.png">
+                                             <matrix>
+                                                  <Matrix a="1.29998779296875" d="1.29998779296875" tx="585.7" ty="521.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="77.5" y="24"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMDynamicText width="789.95" height="56.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="35.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Video</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="47" bitmapSize="940" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="VideoControls_mc" name="mcVideoControls" centerPoint3DX="429.95" centerPoint3DY="477.95">
+                                             <matrix>
+                                                  <Matrix tx="209.95" ty="459.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMVideoInstance libraryItemName="videoPlayer/Display_vid" name="vidDisplay" frameRight="3200" frameBottom="2400">
+                                             <matrix>
+                                                  <Matrix a="2.75" d="2.75" tx="209.95" ty="129.45"/>
+                                             </matrix>
+                                        </DOMVideoInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1086207" publishTime="1319062503"/>
+          <PublishItem publishSize="1086210" publishTime="1319062490"/>
+          <PublishItem publishSize="1081964" publishTime="1319062442"/>
+          <PublishItem publishSize="1086227" publishTime="1319062297"/>
+          <PublishItem publishSize="1086234" publishTime="1319062247"/>
+          <PublishItem publishSize="1086147" publishTime="1319054539"/>
+          <PublishItem publishSize="1086141" publishTime="1319053763"/>
+          <PublishItem publishSize="1086150" publishTime="1319053701"/>
+          <PublishItem publishSize="1086150" publishTime="1319053563"/>
+          <PublishItem publishSize="1086130" publishTime="1319053435"/>
+          <PublishItem publishSize="1086129" publishTime="1319038386"/>
+          <PublishItem publishSize="1086127" publishTime="1319038336"/>
+          <PublishItem publishSize="1086134" publishTime="1319038274"/>
+          <PublishItem publishSize="1086139" publishTime="1319038178"/>
+          <PublishItem publishSize="1086110" publishTime="1319038069"/>
+          <PublishItem publishSize="1086109" publishTime="1319038005"/>
+          <PublishItem publishSize="1086109" publishTime="1319037995"/>
+          <PublishItem publishSize="1086109" publishTime="1319037987"/>
+          <PublishItem publishSize="1086108" publishTime="1319037976"/>
+          <PublishItem publishSize="1086108" publishTime="1319037723"/>
+     </publishHistory>
+</DOMDocument>
